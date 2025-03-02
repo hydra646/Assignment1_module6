@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Poetry",
+        "author": "Shamsur Rahman",
+        "isbn": "10003244",
+        "genre": "null",
+        "price": 120.0,
+        "quantity": 2
+    }
+]
